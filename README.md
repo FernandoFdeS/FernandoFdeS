@@ -1,5 +1,5 @@
 ## Oie, Eu sou o Fernando
-- 📚 Cursando Ciência da Computação na UFFS
+- 📚 Graduado em Ciência da Computação pela UFFS
 <!-- - 🎮 As vezes faço lives na Twitch -->
 
 
